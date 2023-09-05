@@ -8,4 +8,8 @@ public class Main {
     public void test() {
         System.out.println("hell");
     }
+
+    public void ggg() {
+        System.out.println("fsadf");
+    }
 }
